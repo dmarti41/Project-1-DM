@@ -224,7 +224,7 @@ textarea {
 body 
 {
 	background-image: url("http://en.gamersrd.com/wp-content/uploads/2016/08/playstation_4-3335388.jpg");
-	background-position: center; 
+	background-size: 100%;
 }
 
 /*End css for DESKTOP*/
