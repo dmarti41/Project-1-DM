@@ -233,7 +233,8 @@ html
 }
 #f1
 {
-	
+	display: flex;
+  
 }
 #beta
 {
