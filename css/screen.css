@@ -223,16 +223,16 @@ textarea {
 /*Start css for DESKTOP*/
 body, html 
 {
-    height: 100%;
-    margin: 0;
+  height: 100%;
+  margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 body 
 {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/34/12/a8/3412a8001585aa8307d56a07d9b6766a.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	font-family: 'Open Sans', sans-serif;
-	font-family: 'Ubuntu', sans-serif;
 }
 
 #f1
