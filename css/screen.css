@@ -221,23 +221,23 @@ textarea {
 }
 
 /*Start css for DESKTOP*/
+body, html 
+{
+    height: 100%;
+    margin: 0;
+}
 body 
 {
-	background-image: url("http://en.gamersrd.com/wp-content/uploads/2016/08/playstation_4-3335388.jpg");
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/34/12/a8/3412a8001585aa8307d56a07d9b6766a.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
 }
-html 
-{
-  height: 100%;
-	
-}
+
 #f1
 {
-	display: flex;
-  justify-content: space-between;
+
 	margin: 13% 25%;
 }
 #mainbeta
