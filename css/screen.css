@@ -242,6 +242,10 @@ html
 	background-color: #173259;
 	color: #FFFFFE;
 }
+h1
+{
+	font-size: 35px;
+}
 #beta
 {
 	max-width: 500px;
