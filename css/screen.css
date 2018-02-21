@@ -228,6 +228,14 @@ body, html
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
 }
+h1
+{
+	font-size: 35px;
+}
+p
+{
+	font-size: 20px;
+}
 #f1
 {
   background-image: url("https://cdn.allwallpaper.in/wallpapers/2000x1333/8631/playstation-macro-2-3-ps3-2000x1333-wallpaper.jpg");
@@ -241,14 +249,7 @@ body, html
 	background-color: #173259;
 	color: #FFFFFE;
 }
-h1
-{
-	font-size: 35px;
-}
-p
-{
-	font-size: 20px;
-}
+
 #beta
 {
 	max-width: 500px;
