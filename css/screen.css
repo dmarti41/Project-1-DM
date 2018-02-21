@@ -259,6 +259,10 @@ h1
 	background-color: #221E1D;
 	color: #FFFFFE;
 }
+label
+{
+	font-size: 25px;
+}
 
 
 /*End css for DESKTOP*/
