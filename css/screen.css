@@ -228,17 +228,13 @@ body, html
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
 }
-body 
-{
-	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/34/12/a8/3412a8001585aa8307d56a07d9b6766a.jpg");
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-}
-
 #f1
 {
-
-	margin: 13% 25%;
+  background-image: url("https://cdn.allwallpaper.in/wallpapers/2000x1333/8631/playstation-macro-2-3-ps3-2000x1333-wallpaper.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #mainbeta
 {
