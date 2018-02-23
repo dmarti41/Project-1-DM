@@ -236,35 +236,38 @@ p
 {
 	font-size: 20px;
 }
+label
+{
+	font-size: 25px;
+}
 #f1
 {
-  background-image: url("https://cdn.allwallpaper.in/wallpapers/2000x1333/8631/playstation-macro-2-3-ps3-2000x1333-wallpaper.jpg");
+  background-image: url("http://i.imgur.com/vXFO4so.jpg");
   height: 100%; 
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+	
 }
 #mainbeta
 {
 	background-color: #173259;
 	color: #FFFFFE;
+	
 }
 
 #beta
 {
 	max-width: 500px;
 	max-height: 500px;
-	background-color: #173259;
+	
 }
 #userin
 { 
 	background-color: #221E1D;
 	color: #FFFFFE;
 }
-label
-{
-	font-size: 25px;
-}
+
 
 
 
