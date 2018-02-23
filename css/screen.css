@@ -227,6 +227,11 @@ body, html
   margin: 0;
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
+	background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Playstation-HD-Wallpapers-PIC-WPE001740.jpg");
+	height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1
 {
@@ -242,11 +247,8 @@ label
 }
 #f1
 {
-  background-image: url("http://i.imgur.com/vXFO4so.jpg");
-  height: 100%; 
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  
+
 	
 }
 #mainbeta
@@ -254,6 +256,7 @@ label
 	background-color: #173259;
 	color: #FFFFFE;
 	margin-right: 50em;
+	
 }
 
 #beta
