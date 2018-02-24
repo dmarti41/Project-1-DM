@@ -247,7 +247,7 @@ label
 }
 #f1
 {
-
+display: flex;
 	
 }
 #mainbeta
@@ -255,6 +255,8 @@ label
 	background-color: #173259;
 	color: #FFFFFE;
 	margin-right: 900px;
+	margin-left: 50px;
+	
 }
 
 #beta
