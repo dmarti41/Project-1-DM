@@ -229,7 +229,6 @@ body, html
 	font-family: 'Ubuntu', sans-serif;
 	background-image: url("http://i.imgur.com/vXFO4so.jpg");
 	height: 100%; 
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -256,7 +255,8 @@ label
 {
 	background-color: #173259;
 	color: #FFFFFE;
-	margin-right: 800px;
+	height: auto;
+  
 }
 
 #beta
