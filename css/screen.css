@@ -223,12 +223,12 @@ textarea {
 /*Start css for DESKTOP*/
 body, html 
 {
-  height: 100%;
+  max-width: 100%;
+  min-height: 100%;
   
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
 	background-image: url("http://i.imgur.com/vXFO4so.jpg");
-	height: 100%; 
   background-repeat: no-repeat;
   background-size: cover;
 }
