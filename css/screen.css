@@ -266,6 +266,7 @@ label
 	justify-content: center;
 	min-width: calc(30% - 4em);
   max-width: calc(30% - 4em);
+	margin-right: 100px;
 }
 
 
