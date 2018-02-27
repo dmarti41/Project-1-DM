@@ -221,6 +221,11 @@ textarea {
 }
 
 /*Start css for DESKTOP*/
+html
+{
+	
+}
+
 body, html 
 {
   max-width: 100%;
