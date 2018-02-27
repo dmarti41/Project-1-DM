@@ -281,8 +281,12 @@ label
 /*Start css for MOBILE*/
 @media screen and (max-width: 480px)
 {
-	
-	
+
+#f1
+{
+	flex-direction: column;
+}
+
 }
 
 /*End css for MOBILE*/
