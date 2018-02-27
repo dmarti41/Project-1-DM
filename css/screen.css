@@ -224,6 +224,7 @@ textarea {
 html
 {
 	color: #FFFFFE;
+	
 }
 
 body, html 
@@ -233,7 +234,6 @@ body, html
   
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
-	background-image: url("../images/ps4beta.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
