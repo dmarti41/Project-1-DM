@@ -235,7 +235,8 @@ body, html
   display: flex;
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
-  
+  flex-direction: column;
+	justify-content: center;
 }
 h1
 {
