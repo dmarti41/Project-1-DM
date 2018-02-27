@@ -241,6 +241,7 @@ body, html
 h1
 {
 	font-size: 35px;
+	margin-left: 50px;
 }
 p
 {
@@ -258,6 +259,7 @@ label
 	justify-content: space-between;
 	background-color: #21374B;
 	opacity: 0.85;
+	
 }
 #userin
 { 
