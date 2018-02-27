@@ -276,10 +276,13 @@ label
   height: 400px;
 }
 
-
-
 /*End css for DESKTOP*/
 
 /*Start css for MOBILE*/
+@media screen and (max-width: 480px)
+{
+	
+	
+}
 
 /*End css for MOBILE*/
