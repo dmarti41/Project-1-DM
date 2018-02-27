@@ -228,7 +228,7 @@ body, html
   
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
-	background-image: url("http://i.imgur.com/vXFO4so.jpg");
+	background-image: url("../images/ps4beta.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -244,6 +244,8 @@ label
 {
 	font-size: 25px;
 }
+
+
 #f1
 {
   display: -webkit-flex;
@@ -251,20 +253,12 @@ label
   display: flex;
   flex-direction: row-reverse;
 }
-#mainbeta
-{
-	background-color: #173259;
-	color: #FFFFFE;
-	height: auto;
-  
-}
 
-#beta
-{
-	max-width: 600px;
-	max-height: 600px;
-		
-}
+
+
+
+
+
 #userin
 { 
 	background-color: #221E1D;
