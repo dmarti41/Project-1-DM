@@ -270,7 +270,11 @@ label
   max-width: calc(30% - 4em);
 	margin-right: 100px;
 }
-
+#beta
+{
+	width: 400px;
+  height: 400px;
+}
 
 
 
