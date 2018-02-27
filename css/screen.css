@@ -254,10 +254,9 @@ label
 
 #f1
 {
-  display: -webkit-flex;
-  -webkit-flex-direction: row-reverse;
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
+	margin: 0 9%;
 }
 
 
