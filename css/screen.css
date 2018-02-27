@@ -225,6 +225,8 @@ html
 {
 	color: #FFFFFE;
 	background-image: url("../images/ps.jpg");
+	background-size: cover;
+
 }
 
 body, html 
