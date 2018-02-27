@@ -268,7 +268,7 @@ label
 #userin
 { 
 	display: flex;
-
+	flex-direction: column;
 }
 
 
