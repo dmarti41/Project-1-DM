@@ -226,7 +226,6 @@ html
 	color: #FFFFFE;
 	background-image: url("../images/ps.jpg");
 	background-size: cover;
-
 }
 
 body, html 
@@ -237,7 +236,6 @@ body, html
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
   background-repeat: no-repeat;
-  background-size: cover;
 }
 h1
 {
