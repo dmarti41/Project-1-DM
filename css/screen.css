@@ -282,11 +282,14 @@ label
 @media screen and (max-width: 480px)
 {
 
-#f1
+body, html 
 {
-	flex-direction: column;
+  
+	background-position: center;
 }
 
 }
+
+
 
 /*End css for MOBILE*/
