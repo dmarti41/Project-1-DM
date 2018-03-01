@@ -287,6 +287,11 @@ body, html
   
 	background-position: center;
 }
+#beta
+{
+	width: 200px;
+  height: 200px;
+}
 
 }
 
