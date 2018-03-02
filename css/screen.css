@@ -286,11 +286,17 @@ body, html
 {
   
 	background-position: center;
+	max-width: 100%;
+  min-height: 100%;
+	
+
 }
-#beta
+
+#f1
 {
-	width: 200px;
-  height: 200px;
+	
+	justify-content: space-between;
+	margin: auto;
 }
 
 }
