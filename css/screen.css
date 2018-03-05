@@ -250,8 +250,7 @@ label
 /*End css for DESKTOP*/
 
 /*Start css for MOBILE*/
-@media screen and (max-width: 480px)
-{
+@media screen and (min-width: 480px) {
 
 body, html 
 {
@@ -259,54 +258,18 @@ body, html
 	background-position: center;
 	max-width: 100%;
   min-height: 100%;
+	
 
 }
 
-h1
-{
-	font-size: 35px;
-	margin-left: 100px;
-}
-p
-{
-	font-size: 20px;
-}
-label
-{
-	font-size: 25px;
-}
 #f1
 {
-  display: flex;
-  flex-direction: column;
-	margin: 0 9%;
-	justify-content: space-between;
-	background-color: #21374B;
-	opacity: 0.85;
 	
+	justify-content: space-between;
+	margin: auto;
 }
-#userin
-{ 
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	min-width: calc(30% - 4em);
-  max-width: calc(30% - 4em);
-	margin-right: 100px;
-}
-#mainbeta
-{
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	min-width: calc(30% - 4em);
-  max-width: calc(30% - 4em);
-	margin-right: 100px;
-}
-#beta
-{
-	width: 200px;
-  height: 200px;
+
+  
 }
 
 
