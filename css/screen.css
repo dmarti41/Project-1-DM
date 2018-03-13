@@ -200,19 +200,18 @@ html
 	font-size: 1.375em;
   line-height: 1.182em;
   padding: 1.182em;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
   text-rendering: optimizeLegibility;
 }
 
-body, html 
+label 
 {
-  max-width: 100%;
-  min-height: 100%;
-  display: flex;
-	font-family: 'Open Sans', sans-serif;
-	font-family: 'Ubuntu', sans-serif;
-  flex-direction: column;
-	justify-content: center;
+  display: block;
 }
+
+
+
 h1
 {
 	font-size: 35px;
