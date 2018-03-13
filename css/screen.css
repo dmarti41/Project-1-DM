@@ -250,25 +250,61 @@ label
 /*End css for DESKTOP*/
 
 /*Start css for MOBILE*/
-@media screen and (min-width: 480px) {
-
-body, html 
+@media screen and (max-width: 480px) 
 {
+
+html {
   
-	background-position: center;
-	max-width: 100%;
+  
+  max-width: 100%;
   min-height: 100%;
-	
-
+  line-height: 1.1em;
+  
+  
 }
 
-#f1
+h1 {
+  font-size: 25px;
+  line-height: 1.2em;
+  font-weight: bold;
+	justify-content: center;
+}
+
+
+
+#f1 {
+  margin: 0 1.1em;
+  
+ 
+}
+
+#mainbeta {
+  height: 13em;
+  max-width: 100%;
+  border-radius: 0.4em 0.4em 0 0;
+}
+
+#mainuser {
+  padding: 1em;
+	position: absolute;
+}
+
+#userin {
+  padding-top: 1em;
+}
+
+
+#beta
 {
-	
-	justify-content: space-between;
-	margin: auto;
+	height: 200px;
+	width: 200px;
+	float: right;
 }
-
+h2
+{
+	margin-top: 200px;
+	
+}
   
 }
 
