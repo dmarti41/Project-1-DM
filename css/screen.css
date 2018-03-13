@@ -197,6 +197,10 @@ html
 	color: #FFFFFE;
 	background-image: url("../images/ps.jpg");
 	background-size: cover;
+	font-size: 1.375em;
+  line-height: 1.182em;
+  padding: 1.182em;
+  text-rendering: optimizeLegibility;
 }
 
 body, html 
@@ -282,6 +286,7 @@ h1 {
   height: 13em;
   max-width: 100%;
   border-radius: 0.4em 0.4em 0 0;
+	
 }
 
 #mainuser {
