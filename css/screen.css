@@ -200,7 +200,7 @@ html
 	font-size: 1.375em;
   line-height: 1.182em;
   padding: 1.182em;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', 'Ubuntu', 'Oxygen';
 	font-family: 'Ubuntu', sans-serif;
   text-rendering: optimizeLegibility;
 }
