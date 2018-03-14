@@ -262,6 +262,11 @@ img
 h1
 {
 	text-align: center;
+	line-height: 1.0;
+}
+p
+{
+	margin-bottom: 10px;
 }
 }
 
