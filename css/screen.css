@@ -259,7 +259,7 @@ input[type = "text"], input[type = "email"], input[type = "submit"]{
 html
 {
 	background-image: url("../images/ps.jpg");
-	background-image: no-repeat;
+	
 }
 form
 	{
